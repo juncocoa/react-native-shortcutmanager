@@ -1,4 +1,7 @@
 ## ShortcutManager 管理 API(Reat Native 0.63 上测试开发)
+[![React Native Version](https://img.shields.io/badge/react--native-latest-blue.svg?style=flat-square)](http://facebook.github.io/react-native/releases)
+[![Version](https://img.shields.io/npm/v/react-native-shortcutmanager.svg)](https://www.npmjs.com/package/react-native-shortcutmanager)
+[![NPM](https://img.shields.io/npm/dm/react-native-shortcutmanager.svg)](https://www.npmjs.com/package/react-native-shortcutmanager)
 
 ```js
 第一步安装
@@ -247,6 +250,6 @@ componentWillUnmount(){
 ### 效果如图所示
 <div style="display:flex;">
   <img src="http://z1.027cgb.com/632122/20180911142136553.jpg" width="350" height="600" align="middle" style="margin-right:30px"/>
-  
+
   <img src="http://z1.027cgb.com/632122/u=3168038175,1687289509-fm=26-gp=0.jpg" width="350" height="600" align="middle"/>
 </div>
