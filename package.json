@@ -11,5 +11,13 @@
     "shortcut"
   ],
   "author": "juncocoa",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juncocoa/react-native-shortcutmanager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juncocoa/react-native-shortcutmanager/issues"
+  },
+  "homepage": "https://github.com/juncocoa/react-native-shortcutmanager#readme"
 }
