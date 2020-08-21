@@ -1,0 +1,15 @@
+{
+  "name": "react-native-shortcutmanager",
+  "version": "1.0.0",
+  "description": "This is a category for icon menu, desktop icon management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shortcutmanager",
+    "shortcut"
+  ],
+  "author": "juncocoa",
+  "license": "ISC"
+}
