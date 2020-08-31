@@ -135,7 +135,7 @@ removeAllItem()
 ```
 
 ```js
-移除所有菜单项（仅限动态菜单，桌面图标自行移除）
+获取系统支持的图标宽高（设计图标前，先获取查看一下宽高 px）
 getIconWeightAndHeight()
 
 参数说明

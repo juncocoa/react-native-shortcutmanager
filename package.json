@@ -1,23 +1,24 @@
+
 {
-  "name": "react-native-shortcutmanager",
-  "version": "1.0.2",
-  "description": "This is a category for icon menu, desktop icon management",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "shortcutmanager",
-    "shortcut"
-  ],
-  "author": "juncocoa",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/juncocoa/react-native-shortcutmanager.git"
-  },
-  "bugs": {
-    "url": "https://github.com/juncocoa/react-native-shortcutmanager/issues"
-  },
-  "homepage": "https://github.com/juncocoa/react-native-shortcutmanager#readme"
+"name": "react-native-shortcutmanager",
+"version": "1.0.3",
+"description": "This is a category for icon menu, desktop icon management",
+"main": "index.js",
+"scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+"keywords": [
+  "shortcutmanager",
+  "shortcut"
+],
+"author": "juncocoa",
+"license": "MIT",
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/juncocoa/react-native-shortcutmanager.git"
+},
+"bugs": {
+  "url": "https://github.com/juncocoa/react-native-shortcutmanager/issues"
+},
+"homepage": "https://github.com/juncocoa/react-native-shortcutmanager#readme"
 }
