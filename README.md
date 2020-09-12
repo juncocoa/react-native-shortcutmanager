@@ -248,8 +248,5 @@ componentWillUnmount(){
 ```
 
 ### 效果如图所示
-<div style="display:flex;">
-  <img src="http://z1.027cgb.com/632122/20180911142136553.jpg" width="350" height="600" align="middle" style="margin-right:30px"/>
-
-  <img src="http://z1.027cgb.com/632122/u=3168038175,1687289509-fm=26-gp=0.jpg" width="350" height="600" align="middle"/>
-</div>
+![waCPTP](https://s1.ax1x.com/2020/09/12/waCFFf.jpg)
+![waCFFf](https://s1.ax1x.com/2020/09/12/waCPTP.jpg)
