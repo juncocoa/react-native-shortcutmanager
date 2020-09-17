@@ -3,6 +3,10 @@
 [![Version](https://img.shields.io/npm/v/react-native-shortcutmanager.svg)](https://www.npmjs.com/package/react-native-shortcutmanager)
 [![NPM](https://img.shields.io/npm/dm/react-native-shortcutmanager.svg)](https://www.npmjs.com/package/react-native-shortcutmanager)
 
+### 捷径管理 API：v 1.0.4 ，效果如图所示
+![waCPTP](https://s1.ax1x.com/2020/09/12/waCFFf.jpg)
+![waCFFf](https://s1.ax1x.com/2020/09/12/waCPTP.jpg)
+
 ```js
 第一步安装
 npm install react-native-shortcutmanager --save
@@ -246,7 +250,3 @@ componentWillUnmount(){
   shortcutManager.removeShortcutEvent()
 }
 ```
-
-### 效果如图所示
-![waCPTP](https://s1.ax1x.com/2020/09/12/waCFFf.jpg)
-![waCFFf](https://s1.ax1x.com/2020/09/12/waCPTP.jpg)
