@@ -250,3 +250,6 @@ componentWillUnmount(){
   shortcutManager.removeShortcutEvent()
 }
 ```
+
+### 捐赠（Donate）
+![waCPTP](https://s1.ax1x.com/2022/09/16/vzwYDg.jpg)
